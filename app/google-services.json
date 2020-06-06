@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817340114203",
+    "firebase_url": "https://ecerty51-27bd6.firebaseio.com",
+    "project_id": "ecerty51-27bd6",
+    "storage_bucket": "ecerty51-27bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817340114203:android:7a2b4312943c6118829fbe",
+        "android_client_info": {
+          "package_name": "com.example.e_certy51"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817340114203-qhpbujr4dggolqhajnlu7i7fqiq7gvtj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_certy51",
+            "certificate_hash": "ca095df48f14797cf447b0c47d34cceff7a1bcab"
+          }
+        },
+        {
+          "client_id": "817340114203-ci7r3sicgmvhh162sc4egjsu7ocvh44e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-PrPXf_mGpSfTGeodTZejFb97nP8P4WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817340114203-ci7r3sicgmvhh162sc4egjsu7ocvh44e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
